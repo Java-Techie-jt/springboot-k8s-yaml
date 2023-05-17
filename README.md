@@ -17,7 +17,7 @@
 8. Get all the service \
 ```kubectl get svc```
 9. access the link using \
-   NodeInternalIP:<NODE-PORT>
+``` NodeInternalIP:<NODE-PORT>```
 
 
 Reference: 
